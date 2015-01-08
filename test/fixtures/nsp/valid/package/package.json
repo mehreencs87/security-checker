@@ -1,0 +1,7 @@
+{
+  "name": "bar",
+  "version": "0.0.1",
+  "dependencies": {
+    "qs": "2.3.3"
+  }
+}
